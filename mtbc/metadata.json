@@ -1,0 +1,21 @@
+{
+  "name": "MUSKTRUMP BILIONAIRES CLUB",
+  "symbol": "MTBC",
+  "description": "MUSKTRUMP BILIONAIRES CLUB - The First Official Billionaires MEME Club. Let's Make Crypto Great Again!",
+  "image": "https://teamlogos.netlify.app/mtbc/logo.png",
+  "external_url": "https://mtbc.finance",
+  "socials": {
+    "twitter": "https://x.com/mtbc_fun",
+    "telegram": "https://t.me/mtbcmeme",
+    "linkedin": "https://www.linkedin.com/company/musktrumpbilionaireclub"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
